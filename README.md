@@ -1,5 +1,5 @@
 # MechLynx
-Qt C++ Artificila Intelligence project to diagnosis automotive failures based on knowledge base and client inputs.
+Qt C++ Artificial Intelligence project to diagnosis automotive failures based on knowledge base and client inputs.
   This project can have extensions to support OBD and DTCs diagnosis.
   The project contains: 
     
